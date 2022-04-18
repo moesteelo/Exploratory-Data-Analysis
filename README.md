@@ -13,4 +13,5 @@ Introducing  Data Visualization to help explain data through various visualizati
 ## Resoures
 
 - **[Kaggle](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data?select=penguins_size.csv)**
-- **[Penguins Data](Data Resoucres/penguins_size.csv)**
+
+- **[penguins_size.csv](Data Resoucres/)**
