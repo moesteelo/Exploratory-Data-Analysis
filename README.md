@@ -29,7 +29,23 @@
 
 <img src = "img/Kdeplot.png" > 
 
+## Bar Plot
 
+**In a bar plot, the x-axis represents a categorical variable while the y-axis is a numerical variable. That is why the bar plot depicts a relationship between these two variables. For instance, below the body masses of the penguins for each islands are seen. The categorical data in the x-axis is the islands whereas the numerical data in y-axis is the body mass of the penguin.**
+
+<img src = "img/Bar Plot.png" > 
+
+## Cross Tab
+
+**Crosstab is a pandas function that displays the relationship between two or more variables that can be analyzed.**
+
+<img src = "img/Crosstab.png" > 
+
+## Count Plot
+
+**A cout plot is similiar to a bar plot but used for only categorical data. It plots the cout of observations by category in form of a bar plot. It differs from a bar plot because bar plots show the mean of a feature by category**
+
+<img src = "img/Count Plot.png" >
 
 
 ## Resoures
