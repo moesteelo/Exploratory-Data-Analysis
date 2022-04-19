@@ -17,7 +17,17 @@
 
 <img src= "img/Boxplot 1.png" >     <img src= "img/Boxplot 2.png" >
 
+## Histogram
 
+**Histograms are used to depict the frequency distribution. It can be only used with numerical data** 
+
+<img src = "img/Histogram 1.png" >       <img src = "img/Histogram 2.png" >  
+
+## Kdeplot
+
+**kdepot is another way to visualize the distribution of the data.**
+
+<img src = "img/Kdeplot.png" > 
 
 
 
