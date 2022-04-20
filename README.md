@@ -63,7 +63,7 @@
 
 # Summary
 
-**This dataset is quite small yet really useful in performing data analysi. The numerous and differnt visualizations help us understand the broader pictures of the dataset these visualizatios play a key role in understanding your dataset.**
+**This dataset is quite small yet really useful in performing data analysis. The numerous and different visualizations play a key role in helping us understand the broader picture of datasets.**
 
 
 ## Resoures
