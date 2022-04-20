@@ -43,14 +43,34 @@
 
 ## Count Plot
 
-**A cout plot is similiar to a bar plot but used for only categorical data. It plots the cout of observations by category in form of a bar plot. It differs from a bar plot because bar plots show the mean of a feature by category**
+**A count plot is similiar to a bar plot but used for only categorical data. It plots the cout of observations by category in form of a bar plot. It differs from a bar plot because bar plots show the mean of a feature by category**
 
 <img src = "img/Count Plot.png" >
+
+
+## Violin Plot
+
+**Violin plots have common properties with box plots and used when the objective is to observe the distribution of numerical data for different categories.It gives more insights than a box plot, because two different categories might have the same mean but it doesn’t mean that they are the same. Their distributions might differ and in that case, violin plots would be more useful to observe.**
+
+<img src = "img/Violin Plot.png">
+
+
+## Correlation Matrix
+
+**Correlation Matrix is the summarization of the dataset. The matrix shows the correlations between features. In this dataset the relationship between `length of flipper` and `body mass` shows a correlation of 0.87, which is quite high.**
+
+<img src ="img/Correlation Matrix.png"> 
+
+# Summary
+
+**This dataset is quite small yet really useful in performing data analysi. The numerous and differnt visualizations help us understand the broader pictures of the dataset these visualizatios play a key role in understanding your dataset.**
 
 
 ## Resoures
 
 - **[Kaggle](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data?select=penguins_size.csv)**
+
+* **[Medium Article](https://mugekuskon.medium.com/how-to-perform-exploratory-data-analysis-5c3d944c13ff)**
 
 
 ## Files
