@@ -74,7 +74,8 @@
 
 
 ## Files
+ **JavaScript:** [plots.js](/plots.js)
 
-- **penguins_size.csv**
+- **Penguins_csv:** [penguins_size.csv](Data Resources/penguins_size.csv)
 
-- **Exploratory Data Visualization.ipynb**
+- **Python File:** [Exploratory Data Visualization.ipynb](Exploratory Data Visualization.ipynb)
